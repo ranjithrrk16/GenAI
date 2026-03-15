@@ -1,5 +1,5 @@
 # GenAI
-core ML ideas so you can integrate ML systems with DevOps pipelines.
+core ML ideas so we can integrate ML systems with DevOps pipelines.
 Important concepts:
 * Supervised vs Unsupervised learning
 * Regression and Classification
