@@ -66,7 +66,7 @@ Containerization Benefits: Understand portable, reproducible infrastructure
 Configuration Management: Learn declarative service configuration
 Quick Deployment: Experience the "quick win" of instant infrastructure setup
 
-'MLOPS'
+```MLOPS
 ml-devops-project/
 │
 ├── data/
@@ -87,3 +87,4 @@ ml-devops-project/
 │
 ├── requirements.txt
 └── README.md
+```
