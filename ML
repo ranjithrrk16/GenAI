@@ -1,0 +1,2 @@
+Machine Learning is a process of training machine with help of data to understand trends and patterns from data to perform task automatically.
+types of ML is supervised learning(data+label) and unsupervised learning(data only)
