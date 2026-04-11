@@ -1,0 +1,15 @@
+GenAI -> Develop code by trained in specific application like node.js or java code
+Generating images - DallE, DeepArt
+Generating Text - ChatGpt, Copy.AI
+Generating music - Music.net
+Generating code - Copilot, tabnine, codet5
+
+AI-> learing, reasoning, problem solving, understand natural language, even perceptions. it is done by using ML
+ML- subset of AI that focuses on building machines that can learn from & make decisions based on data
+teaching computers to learn from experience instead of programming explicit instructions we provide system with data &
+algorithem that allow it to learn and improve over time.
+ex: identify images
+
+ML can do complex tasks like supervised(Input data with lables) and Unsupervised(input data without labels) and 
+Reinforcement (learn from feedback/experience)
+
