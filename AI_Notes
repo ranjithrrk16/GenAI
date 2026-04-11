@@ -13,3 +13,27 @@ ex: identify images
 ML can do complex tasks like supervised(Input data with lables) and Unsupervised(input data without labels) and 
 Reinforcement (learn from feedback/experience)
 
+Token: AI models breaks text in units called Tokens. subword level token, character level tokenization
+Embeddings: are numerical representations of real-world objects that ML and AI systems use to understand complex 
+knowledge domains like humans do
+
+A word token is converted into embeddings, which are vector representation of words, and then it is fed to the 
+neural networks for further processing. neural networks need these embeddings for any kind of processing.
+Input Text -> Tokenization -> Embedding Generation -> Model processing
+
+Prompt Engineering:  
+ChatGPT: write a deployment yaml file for kubernetes (Text Generation)
+Dall-E: create an image of a Web App Architecture Diagram (Image Generation)
+Copilot: Write code to Dockerize an application (Code Generation)
+
+strategies in prompt engineering:
+* zero shot: write terraform script to create an EC2 in AWS
+* one-shot: give this example to chatgpt or AI systems where a python script checks for null password entries 
+(if password is not none), identify security flaws in the following python login script
+* few-shot: provide some examples of terraform scripts with marked security improvements. now analyze this new terraform
+script and suggest security enhancements
+* chain of thought: explain step by step how you would debug a failing kubernetes pod based on these error logs and 
+system status.
+
+
+
