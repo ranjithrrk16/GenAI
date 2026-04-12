@@ -35,5 +35,3 @@ script and suggest security enhancements
 * chain of thought: explain step by step how you would debug a failing kubernetes pod based on these error logs and 
 system status.
 
-
-
