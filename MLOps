@@ -1,2 +1,5 @@
 Machine Learning is a process of training machine with help of data to understand trends and patterns from data to perform task automatically.
 types of ML is supervised learning(data+label) and unsupervised learning(data only)
+
+MLOps Workflow
+Data collection->Model Development-> Automated Testing-> staging Deployment->Automated Testing->Production Deployment->Continuous Monitoring->Alert and retrain
