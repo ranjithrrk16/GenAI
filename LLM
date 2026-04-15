@@ -1,3 +1,5 @@
+Large language model operation (LLM)
+It’s a culture building, deploying, monitoring and continuously improving LLM in real production systems
 skills for LLM
 Python + Fast API
 LLM APIs
@@ -6,3 +8,4 @@ RAG + Vector DB
 Monitoring & Guardrails
 Docker + Kubernetes
 CI/CD for LLMs
+
