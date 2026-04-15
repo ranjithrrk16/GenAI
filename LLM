@@ -9,3 +9,12 @@ Monitoring & Guardrails
 Docker + Kubernetes
 CI/CD for LLMs
 
+similarities in DevOps:
+API’s
+CICD
+Versioning
+Rollbacks
+Observability
+Cost control
+Infra scaling
+Kubernetes
