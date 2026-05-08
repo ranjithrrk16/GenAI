@@ -1,0 +1,192 @@
+OpenAI Keywords
+OpenAI — “How are foundation AI models accessed and utilized?”
+GPT Models — “How are generative AI tasks performed?”
+LLM (Large Language Model) — “How are human-like responses generated?”
+Chat Completion API — “How are conversational AI interactions handled?”
+Embeddings — “How is semantic similarity represented numerically?”
+Fine-Tuning — “How are models customized for specific tasks?”
+Function Calling — “How do LLMs invoke external tools or APIs?”
+Tokenization — “How is text converted into model-readable units?”
+Context Window — “How much information can the model process at once?”
+Temperature — “How deterministic or creative are model responses?”
+System Prompt — “How is model behavior controlled?”
+Guardrails — “How are unsafe or invalid outputs prevented?”
+Moderation API — “How is harmful content filtered?”
+Streaming Responses — “How are responses delivered incrementally?”
+Multi-Modal AI — “How are text, image, and audio processed together?”
+Inference — “How are predictions generated from trained models?”
+Hallucination — “Why might an LLM generate inaccurate information?”
+Agentic AI — “How do AI systems autonomously execute tasks?”
+AI Safety — “How are responsible AI practices enforced?”
+Azure OpenAI Keywords
+Azure OpenAI — “How are OpenAI models securely hosted on Azure?”
+Azure AI Studio — “How are AI solutions developed and managed?”
+Private Endpoint — “How is Azure OpenAI isolated within private networks?”
+Managed Identity — “How is secure authentication handled without secrets?”
+Content Filtering — “How are unsafe AI responses moderated?”
+Enterprise Security — “How are compliance and governance enforced?”
+Azure Cognitive Services — “How are AI services integrated on Azure?”
+API Versioning — “How are Azure OpenAI APIs maintained safely?”
+Provisioned Throughput — “How is guaranteed model capacity managed?”
+RBAC — “How is role-based access controlled?”
+VNET Integration — “How is network-level isolation implemented?”
+Responsible AI — “How are ethical AI principles applied?”
+Prompt Flow — “How are AI orchestration workflows created?”
+Azure Monitor Integration — “How are AI workloads monitored?”
+Token Usage Monitoring — “How are AI consumption costs tracked?”
+LangChain Keywords
+LangChain — “How are LLM-powered workflows orchestrated?”
+Chain — “How are multiple AI operations connected sequentially?”
+Agent — “How does an LLM autonomously decide actions?”
+Tool Calling — “How do LLMs invoke external systems?”
+Memory — “How is conversational context retained?”
+Prompt Template — “How are reusable prompts standardized?”
+Retrieval Chain — “How is external knowledge integrated with LLMs?”
+Vector Store Integration — “How are embeddings stored and searched?”
+RAG Pipeline — “How are retrieval and generation combined?”
+Output Parser — “How are structured responses extracted?”
+LangServe — “How are LangChain applications deployed as APIs?”
+Runnable Interface — “How are composable workflows executed?”
+Multi-Agent Workflow — “How do multiple AI agents collaborate?”
+Callback Handlers — “How are execution events monitored?”
+Document Loaders — “How are external documents ingested?”
+LiteLLM Keywords
+LiteLLM — “How are multiple LLM providers unified under one API?”
+Multi-Provider Routing — “How are requests routed across different LLMs?”
+Cost Optimization — “How are AI inference costs minimized?”
+Fallback Models — “How are backup models used during failures?”
+Load Balancing — “How is AI traffic distributed efficiently?”
+Rate Limiting — “How are LLM API quotas controlled?”
+Unified API Interface — “How are different model APIs standardized?”
+OpenAI-Compatible API — “How are APIs abstracted consistently?”
+Token Tracking — “How is token consumption monitored?”
+Retry Mechanism — “How are transient LLM failures handled?”
+Model Abstraction — “How are underlying providers hidden from applications?”
+Logging & Observability — “How are LLM requests monitored?”
+Gateway Pattern — “How is centralized LLM access controlled?”
+RAG (Retrieval-Augmented Generation) Keywords
+RAG — “How are LLMs enhanced using external knowledge?”
+Vector Database — “How are embeddings stored for semantic search?”
+Embeddings — “How is semantic meaning numerically represented?”
+Semantic Search — “How are relevant documents retrieved contextually?”
+Chunking — “How are large documents split into smaller sections?”
+Retriever — “How are relevant documents fetched?”
+Context Injection — “How is retrieved information added to prompts?”
+Grounding — “How are hallucinations reduced using trusted data?”
+Similarity Search — “How are semantically related documents identified?”
+Hybrid Search — “How are keyword and vector searches combined?”
+Re-ranking — “How are search results prioritized?”
+Metadata Filtering — “How are searches narrowed by attributes?”
+Knowledge Base — “Where is enterprise information stored?”
+Context Window Optimization — “How is retrieved data limited efficiently?”
+Hallucination Reduction — “How is factual accuracy improved?”
+Prompt Engineering Keywords
+Prompt Engineering — “How are prompts optimized for better AI responses?”
+System Prompt — “How is AI behavior controlled globally?”
+Few-Shot Prompting — “How are examples used to guide AI outputs?”
+Zero-Shot Prompting — “How does AI perform tasks without examples?”
+Chain-of-Thought Prompting — “How is step-by-step reasoning encouraged?”
+Role Prompting — “How is AI instructed to behave as a role/persona?”
+Context Engineering — “How is relevant information supplied to AI?”
+Prompt Chaining — “How are multiple prompts connected together?”
+Instruction Tuning — “How are prompts optimized for task accuracy?”
+Hallucination Mitigation — “How are inaccurate responses minimized?”
+Structured Output Prompting — “How are JSON/table outputs enforced?”
+Delimiter Usage — “How is prompt structure clarified?”
+Token Optimization — “How are prompt costs reduced?”
+Prompt Injection Prevention — “How are malicious prompt manipulations avoided?”
+Evaluation Framework — “How are prompt performances measured?”
+MCP (Model Context Protocol) Keywords
+MCP (Model Context Protocol) — “How do AI models securely interact with external tools and data?”
+MCP Server — “How are tools/resources exposed to AI systems?”
+MCP Client — “How do AI applications consume MCP resources?”
+Tool Invocation — “How does the model call external capabilities?”
+Context Sharing — “How is structured information passed to models?”
+Protocol Standardization — “How are AI integrations made interoperable?”
+Resource Discovery — “How are available tools identified dynamically?”
+Structured Context — “How is external information formatted consistently?”
+AI Tool Ecosystem — “How are multiple AI tools unified?”
+Secure Tool Access — “How is external system access controlled?”
+Agent Interoperability — “How do different AI agents communicate?”
+External Memory Integration — “How do models access persistent knowledge?”
+Function Schema — “How are callable tool definitions described?”
+MLflow Keywords
+MLflow — “How is the ML lifecycle managed and tracked?”
+Experiment Tracking — “How are ML experiments monitored?”
+Model Registry — “How are model versions centrally managed?”
+Run Tracking — “How are training runs logged?”
+Artifact Store — “Where are ML artifacts stored?”
+Model Versioning — “How are multiple model versions maintained?”
+Model Serving — “How are trained models exposed for inference?”
+Reproducibility — “How are ML experiments replicated reliably?”
+Parameters & Metrics Logging — “How are model performance details recorded?”
+CI/CD for ML — “How are ML pipelines automated?”
+Deployment Stages — “How are models promoted from staging to production?”
+ML Metadata Management — “How is ML lineage tracked?”
+Packaging Models — “How are models standardized for deployment?”
+Drift Monitoring — “How are model behavior changes detected?”
+Kubeflow Keywords
+Kubeflow — “How are ML workflows orchestrated on Kubernetes?”
+Kubeflow Pipelines — “How are ML pipelines automated?”
+Notebook Server — “How are ML experiments developed interactively?”
+Katib — “How is hyperparameter tuning automated?”
+KFServing/KServe — “How are ML models deployed on Kubernetes?”
+TensorFlow Operator — “How are distributed TensorFlow jobs managed?”
+Distributed Training — “How are large-scale ML trainings executed?”
+Pipeline Components — “How are reusable ML workflow steps created?”
+Metadata Tracking — “How are ML experiment details stored?”
+AutoML Integration — “How are automated ML workflows supported?”
+Multi-Tenant ML Platform — “How are multiple teams isolated securely?”
+Kubernetes-Native ML — “How are ML workloads containerized and orchestrated?”
+Apache Airflow Keywords
+Airflow — “How are workflows and pipelines orchestrated?”
+DAG (Directed Acyclic Graph) — “How are workflow dependencies defined?”
+Task — “What unit of work executes in Airflow?”
+Scheduler — “How are workflows triggered automatically?”
+Operator — “How are specific actions executed?”
+Executor — “How are tasks distributed and run?”
+XCom — “How is data shared between tasks?”
+Retry Policy — “How are failed tasks retried?”
+Workflow Orchestration — “How are dependent processes coordinated?”
+ETL Pipeline — “How are data pipelines automated?”
+Sensors — “How are external events monitored?”
+SLA Monitoring — “How are delayed workflows detected?”
+Dynamic DAGs — “How are workflows generated programmatically?”
+Airflow UI — “How are workflows monitored visually?”
+Backfill — “How are missed workflow runs executed?”
+SageMaker Keywords
+SageMaker — “How are ML models built, trained, and deployed on AWS?”
+SageMaker Studio — “How are ML workflows managed interactively?”
+Training Job — “How are ML models trained at scale?”
+Endpoint Deployment — “How are ML models exposed for inference?”
+Batch Transform — “How are offline predictions executed?”
+Model Monitoring — “How is model drift detected?”
+Auto Scaling Endpoints — “How are inference workloads scaled automatically?”
+Feature Store — “How are reusable ML features managed?”
+JumpStart — “How are pretrained models quickly deployed?”
+Hyperparameter Tuning — “How are model parameters optimized?”
+Pipelines — “How are ML workflows automated?”
+Managed Infrastructure — “How are ML operations simplified?”
+Distributed Training — “How are large ML jobs parallelized?”
+Inference Optimization — “How are prediction latencies reduced?”
+Model Deployment & Lifecycle Management Keywords
+Model Deployment — “How are trained models exposed to applications?”
+Model Serving — “How are inference requests processed?”
+Online Inference — “How are real-time predictions generated?”
+Batch Inference — “How are large-scale offline predictions executed?”
+Model Registry — “How are model versions managed centrally?”
+CI/CD for ML (MLOps) — “How are ML deployments automated?”
+Canary Deployment — “How are new models gradually released?”
+Blue-Green Deployment — “How are low-risk model rollouts achieved?”
+A/B Testing — “How are model performances compared safely?”
+Shadow Deployment — “How are models tested silently in production?”
+Drift Detection — “How is model accuracy degradation identified?”
+Feature Drift — “How are input data changes detected?”
+Retraining Pipeline — “How are models retrained automatically?”
+Model Governance — “How are compliance and approvals enforced?”
+Explainability — “How are model decisions interpreted?”
+Observability for ML — “How are inference metrics monitored?”
+Latency Optimization — “How are prediction response times improved?”
+Autoscaling Inference — “How are model endpoints scaled dynamically?”
+Rollback Strategy — “How are failed model deployments reverted?”
+Model Lifecycle Management — “How are models managed from training to retirement?”
